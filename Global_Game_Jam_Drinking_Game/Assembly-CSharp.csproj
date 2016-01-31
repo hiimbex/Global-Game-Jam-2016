@@ -46,7 +46,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\SetScreenSize.cs" />
-     <Compile Include="Assets\Scripts\nextscene.cs" />
+     <Compile Include="Assets\Scripts\onClickForward.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
