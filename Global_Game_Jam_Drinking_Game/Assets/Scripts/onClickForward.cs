@@ -9,6 +9,14 @@ public class onClickForward : MonoBehaviour {
 	
 		// Close game
 		Debug.Log ("CLICKING");
-		SceneManager.LoadScene ("_Scenes/USA");
+		SceneManager.LoadScene ("USA");
 	}
+	public void credits(){
+		// Save game data
+
+		// Close game
+		Debug.Log ("CLICKING");
+		SceneManager.LoadScene ("_Scenes/Credits");
+	}
+
 }
